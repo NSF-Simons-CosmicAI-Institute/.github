@@ -18,8 +18,11 @@ Research activities:
 - [hydrodynamics-benchmark](https://github.com/NSF-Simons-CosmicAI-Institute/hydrodynamics-benchmark)
 - [Modular-Chemical-Networks](https://github.com/NSF-Simons-CosmicAI-Institute/Modular-Chemical-Networks)
 - [chemistry-benchmark-surrogates](https://github.com/NSF-Simons-CosmicAI-Institute/chemistry-benchmark-surrogates)
-- [tacc-surrogates](https://github.com/NSF-Simons-CosmicAI-Institute/tacc-surrogates)
+- [tacc-surrogates](https://github.com/NSF-Simons-CosmicAI-Institute/tacc-surrogates) 
 
+### Educational Material
+- [Astro-AI Bootcamp Series](https://github.com/NSF-Simons-CosmicAI-Institute/AI-Astro-Bootcamps)
+  
 The outline above will be updated on a rolling basis as projects approach the publication stage. 
 
 For more information on CosmicAI, you are welcome to vist our official website: https://www.cosmicai.org/.
