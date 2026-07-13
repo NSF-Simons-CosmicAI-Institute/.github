@@ -8,7 +8,7 @@ Activities within CosmicAI span both research and education. We organize these a
 - [CalibrateThenAct](https://github.com/NSF-Simons-CosmicAI-Institute/CalibrateThenAct)
 
 ### Working Group 2: Observable Universe
--[Self-Organizing UMAP](https://github.com/jt-ut/soumap)
+- [Self-Organizing UMAP](https://github.com/jt-ut/soumap)
 
 ### Working Group 3: Explainable Universe
 
