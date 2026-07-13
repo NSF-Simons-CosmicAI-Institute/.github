@@ -4,16 +4,15 @@ Welcome to the CosmicAI GitHub Organization! We are a research institiute using 
 Activities within CosmicAI span both research and education. We organize these activities into four working groups, each with its own focus, goals, and research speciality. The outline below provides a roadmap for the organization's work, with respositories organized according to their parent working group:
 
 ### Working Group 1: Explorable Universe
-Research activities:
 - [AstroVisBench](https://github.com/NSF-Simons-CosmicAI-Institute/AstroVisBench)
 - [CalibrateThenAct](https://github.com/NSF-Simons-CosmicAI-Institute/CalibrateThenAct)
 
 ### Working Group 2: Observable Universe
+-[Self-Organizing UMAP](https://github.com/jt-ut/soumap)
 
 ### Working Group 3: Explainable Universe
 
 ### Working Group 4: Accelerated Universe
-Research activities:
 - [KIDApy](https://github.com/NSF-Simons-CosmicAI-Institute/KIDApy)
 - [hydrodynamics-benchmark](https://github.com/NSF-Simons-CosmicAI-Institute/hydrodynamics-benchmark)
 - [Modular-Chemical-Networks](https://github.com/NSF-Simons-CosmicAI-Institute/Modular-Chemical-Networks)
