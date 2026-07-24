@@ -14,9 +14,9 @@ Activities within CosmicAI span both research and education. We organize these a
 
 ### Working Group 4: Accelerated Universe
 - [KIDApy](https://github.com/NSF-Simons-CosmicAI-Institute/KIDApy)
-- [hydrodynamics-benchmark](https://github.com/NSF-Simons-CosmicAI-Institute/hydrodynamics-benchmark)
+- [hydrodynamics-benchmark](https://github.com/NSF-Simons-CosmicAI-Institute/hydrodynamics-benchmark) (PRIVATE, under development)
 - [Modular-Chemical-Networks](https://github.com/NSF-Simons-CosmicAI-Institute/Modular-Chemical-Networks)
-- [chemistry-benchmark-surrogates](https://github.com/NSF-Simons-CosmicAI-Institute/chemistry-benchmark-surrogates)
+- [chemistry-benchmark-surrogates](https://github.com/NSF-Simons-CosmicAI-Institute/chemistry-benchmark-surrogates) (PRIVATE, under development)
 - [tacc-surrogates](https://github.com/NSF-Simons-CosmicAI-Institute/tacc-surrogates) 
 
 ### Educational Material
