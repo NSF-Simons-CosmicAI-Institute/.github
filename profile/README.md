@@ -14,6 +14,7 @@ Activities within CosmicAI span both research and education. We organize these a
 - [GOPREAUX](https://github.com/crpellegrino/gopreaux)
 - [ChartMuseum](https://github.com/Liyan06/ChartMuseum)
 - [XMAS](https://github.com/BigML-CS-UCLA/XMAS)
+- [MM-GEN](https://github.com/sjoshi804/MM-Gen)
   
 ### Working Group 2: Observable Universe
 - [Self-Organizing UMAP](https://github.com/jt-ut/soumap)
