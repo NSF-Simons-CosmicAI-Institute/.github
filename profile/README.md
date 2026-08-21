@@ -1,5 +1,5 @@
 # NSF-Simons CosmicAI Institute
-Welcome to the CosmicAI GitHub Organization! We are a research institute using artificial intelligence to address outstanding questions in cosmology and astronomy. Our members include researchers and scientists from academia, government, nonprofits and industry, all with the shared goal of increasing the accessibility of astronomy data and understanding. Our work is funded through the U.S. National Science Foundation and the Simons Foundation.
+Welcome to the CosmicAI GitHub Organization! We are a research institute developing artificial intelligence to address outstanding questions in cosmology and astronomy. Our members include researchers and scientists from academia, government, nonprofits and industry, all with the shared goal of increasing the accessibility of astronomy data and understanding. Our work is funded through the U.S. National Science Foundation and the Simons Foundation.
 
 Activities within CosmicAI span both research and education. We organize these activities into four working groups, each with its own focus, goals, and research speciality. The outline below provides a roadmap for the organization's work, with repositories organized according to their parent working group:
 
