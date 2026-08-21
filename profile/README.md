@@ -17,6 +17,7 @@ Activities within CosmicAI span both research and education. We organize these a
 - [MM-GEN](https://github.com/sjoshi804/MM-Gen)
   
 ### Working Group 2: Observable Universe
+- [Bandpass Amplitude Anomaly Classifier](https://github.com/cixue/bandpass-classifier)
 - [Self-Organizing UMAP](https://github.com/jt-ut/soumap)
 - [TabKDE](https://github.com/tabkde/tabkde-main)
 
