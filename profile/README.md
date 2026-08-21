@@ -15,6 +15,7 @@ Activities within CosmicAI span both research and education. We organize these a
 - [ChartMuseum](https://github.com/Liyan06/ChartMuseum)
 - [XMAS](https://github.com/BigML-CS-UCLA/XMAS)
 - [MM-GEN](https://github.com/sjoshi804/MM-Gen)
+- [MANNA](https://github.com/NSF-Simons-CosmicAI-Institute/manna)
   
 ### Working Group 2: Observable Universe
 - [Bandpass Amplitude Anomaly Classifier](https://github.com/cixue/bandpass-classifier)
@@ -34,6 +35,9 @@ Activities within CosmicAI span both research and education. We organize these a
 
 ### Educational Material
 - [Astro-AI Bootcamp Series](https://github.com/NSF-Simons-CosmicAI-Institute/AI-Astro-Bootcamps)
+- [CosmicAI Summer School](https://github.com/NSF-Simons-CosmicAI-Institute/CosmicAISummerSummerSchool2026)
+- [CosmicAI Winter School](https://github.com/NSF-Simons-CosmicAI-Institute/CosmicAIWinterSchool2025)
+- 
   
 The outline above will be updated on a rolling basis as projects approach the publication stage. 
 
