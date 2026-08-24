@@ -16,6 +16,7 @@ Activities within CosmicAI span both research and education. We organize these a
 - [XMAS](https://github.com/BigML-CS-UCLA/XMAS)
 - [MM-GEN](https://github.com/sjoshi804/MM-Gen)
 - [MANNA](https://github.com/NSF-Simons-CosmicAI-Institute/manna)
+- [TEMP-ICML](https://github.com/BigML-CS-UCLA/TEMP-ICML)
   
 ### Working Group 2: Observable Universe
 - [Bandpass Amplitude Anomaly Classifier](https://github.com/cixue/bandpass-classifier)
