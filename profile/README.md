@@ -22,6 +22,7 @@ Activities within CosmicAI span both research and education. We organize these a
 - [Bandpass Amplitude Anomaly Classifier](https://github.com/cixue/bandpass-classifier)
 - [Self-Organizing UMAP](https://github.com/jt-ut/soumap)
 - [TabKDE](https://github.com/tabkde/tabkde-main)
+- [RegressionScanStats](https://github.com/BeardyMan37/RegressionScanStats)
 
 ### Working Group 3: Explainable Universe
 - [Scalable Inference Using Cloud Serverless Computing](https://github.com/UVA-MLSys/AI-for-Astronomy)
