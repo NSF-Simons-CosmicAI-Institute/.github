@@ -26,6 +26,7 @@ Activities within CosmicAI span both research and education. We organize these a
 
 ### Working Group 3: Explainable Universe
 - [Scalable Inference Using Cloud Serverless Computing](https://github.com/UVA-MLSys/AI-for-Astronomy)
+- [Cosmo3DFlow](https://github.com/UVA-MLSys/Cosmo3DFlow)
 
 ### Working Group 4: Accelerated Universe
 - [KIDApy](https://github.com/NSF-Simons-CosmicAI-Institute/KIDApy)
